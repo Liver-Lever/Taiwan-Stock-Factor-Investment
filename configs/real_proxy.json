@@ -1,0 +1,21 @@
+{
+  "data_dir": "data/production",
+  "output_dir": "results/real_proxy_in_sample",
+  "start_date": "2015-01-01",
+  "end_date": "2022-12-31",
+  "electronic_index_id": "TWSE_ELECTRONICS",
+  "benchmark_index_id": "TAIEX_TR",
+  "ma_window": 20,
+  "hysteresis_band": 0.02,
+  "electronics_cut_fraction": 0.25,
+  "momentum_lookback": 126,
+  "volatility_lookback": 60,
+  "top_n": 10,
+  "liquidity_lookback": 20,
+  "minimum_average_trading_value": 50000000,
+  "commission_bps": 14.25,
+  "tax_bps": 30.0,
+  "slippage_bps": 5.0,
+  "allow_synthetic": false,
+  "allow_constituent_proxy": true
+}

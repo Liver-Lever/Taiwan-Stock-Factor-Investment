@@ -1,0 +1,9 @@
+{
+  "data_kind": "synthetic_fixture",
+  "point_in_time_constituents": true,
+  "seed": 20261107,
+  "warning": "For software verification only. Do not interpret results as Taiwan market evidence.",
+  "sources": [
+    "Deterministic generator in app/demo_data.py"
+  ]
+}
